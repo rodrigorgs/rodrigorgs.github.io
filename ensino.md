@@ -37,3 +37,4 @@ Disciplinas da UFBA, a não ser onde especificado diferentemente.
 - (40h) RNP: Administração de Sistemas Linux (ADS2), 2013 (monitor)
 - (40h) RNP: Introdução ao Linux (ADS1), 2014 (monitor)
 - (4h) [Minicurso Introdução ao Android](http://www.slideshare.net/xrodrigorgs/minicurso-androiduefs), na Semana de Integração dos Estudantes de Engenharia de Computação (SIECOMP) da Universidade Estadual de Feira de Santana (UEFS), 11 de março de 2013.
+
