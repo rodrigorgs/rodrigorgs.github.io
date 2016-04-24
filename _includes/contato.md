@@ -1,0 +1,3 @@
+- **Local**: Sala 216 do Instituto de Matemática da UFBA
+- **E-mail**: rodrigo@dcc.ufba.br
+- Quer conversar? Marque um horário em <https://rodrigorgs.youcanbook.me/>

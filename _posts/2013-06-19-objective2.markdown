@@ -1,0 +1,37 @@
+---
+layout: post
+title: "2º Objetivo: Caracterizar a Reabertura de Defeitos"
+date: 2013-06-19 08:48
+comments: true
+categories: phd
+---
+
+O segundo objetivo consiste em caracterizar a reabertura de defeitos em termos da frequência com que ela ocorre e do prejuízo de tempo que ela traz ao projeto. 
+
+Apesar de existirem trabalhos semelhantes na literatura, esta proposta se diferencia por dar ênfase a dois subconjuntos de defeitos reabertos: os defeitos que foram corrigidos e os defeitos que foram corrigidos e verificados.
+
+O objetivo é alcançado por meio da investigação das seguintes questões de pesquisa, de caráter exploratório:
+
+* RQ2.1: Como a reabertura de defeitos se distribui em relação ao tempo, em relação aos desenvolvedores e em relação a características de defeitos? Esta questão de pesquisa envolve a aferição das seguintes métricas:
+  - taxa de reabertura (Seção 2.4.3) de todos os defeitos;
+  - taxa de reabertura dos defeitos que são corrigidos;
+  - taxa de reabertura dos defeitos que são corrigidos e depois verificados;
+  - distribuição da quantidade de reaberturas por resolução (ex.: `FIXED`, `VERIFIED`, `WONTFIX`);
+  - distribuição da quantidade de reaberturas ao longo do ciclo de lançamento;
+  - distribuição da quantidade de reaberturas por desenvolvedor que corrigiu ou verificou o defeito;
+  - distribuição da quantidade de reaberturas por papel na equipe do desenvolvedor que corrigiu ou verificou o defeito (programador ou especialista em qualidade);
+  - distribuição da quantidade de reaberturas por papel do desenvolvedor no defeito reaberto (o papel, neste caso, indica se o desenvolvedor foi quem relatou ou quem corrigiu o defeito);
+  - relação entre a reabertura e o tempo para correção (Seção 2.4.3);
+* RQ2.2: Qual o impacto dos defeitos reabertos em termos do esforço de desenvolvimento, em relação aos defeitos não reabertos? São investigadas as seguintes métricas:
+  - tempo para correção (Seção 2.4.3) dos defeitos que não foram reabertos;
+  - tempo para verificação dos defeitos corrigidos que não foram reabertos;
+  - tempo para correção final dos defeitos corrigidos e reabertos;
+  - tempo para verificação final para os defeitos corrigidos e reabertos;
+  - tempo para correção dos defeitos corrigidos reabertos e não reabertos, verificados e não verificados, por severidade do defeito;
+  - período latente de correções defeituosas (tempo entre correção e reabertura; ver Seção 2.4.3);
+  - período latente dos defeitos corrigidos e verificados;
+  - relação entre o tamanho do período latente e o tempo para correção subsequente (será que defeitos que demoram mais para ser reabertos demoram mais para ser recorrigidos?);
+  - dentre os defeitos reabertos, o tempo para correção dos defeitos corrigidos;
+  - dentre os defeitos reabertos, o tempo para correção dos defeitos não corrigidos (ou seja, com outra resolução);
+
+Na análise dos dados de sistemas de acompanhamento de defeitos, as métricas poderão ser computadas separadamente para defeitos de diferentes severidades, componentes etc., a fim de isolar o efeito dessas características nas métricas.

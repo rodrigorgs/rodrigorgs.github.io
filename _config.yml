@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Rodrigo Rocha
+email: rodrigo@dcc.ufba.br
+description: > # this means to ignore newlines until "baseurl:"
+  Professor do Departamento de Ciência da Computação (DCC)
+  da Universidade Federal da Bahia (UFBA) desde 2015.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: xrodrigorgs
+github_username:  rodrigorgs
+
+# Build settings
+markdown: kramdown

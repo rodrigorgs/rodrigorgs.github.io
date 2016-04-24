@@ -1,0 +1,93 @@
+---
+layout: post
+title: "The Eclipse Way from the point of view of a data scientist"
+date: 2013-09-29 09:05
+comments: true
+categories: phd
+---
+
+Hello,
+
+My name is Rodrigo Souza and I'm a PhD student at the Federal University of Bahia, Brazil (and also a Java programmer that uses Eclipse every day).
+
+In my PhD, I'm analyzing Eclipse/Platform bug reports to try to measure the impacts of reopened bugs and discover how verification can be made more effective, so bugs are reopened less often. I've found some preliminary results, but I'd like some feedback from the community to know if the results make sense and try to raise some explanations.
+
+First, regarding the verification process, I've found that...
+
+* ... there's no testing team; instead, developers contribute both with fixes and verifications;
+* ... often, a developer asks a colleague to verify his/her fix;
+* ... verification is more intense a week before the next milestone build.
+
+Are these observations correct?
+
+Also, the Bugzilla HOWTO states that "it is important that the verifier be a different person than the fixer because the fixer is too close to the code and thus may not be as diligent at testing the corner cases". However...
+
+* ... in about 40% of the cases, the fixer also marks the bug as verified. 
+
+Why is that? In these cases, is the verifier a different person, that approves the fix using a different tool? Or is fixer = verifier, and the fixer regarded the bug as trivial and decided that verification was not needed?
+
+Regarding the reopening, I've found that...
+
+* ... there's no evidence that bugs in which verifier != fixer are less likely to be reopened;
+* ... verified bugs are 4x less likely to be reopened when the verifier states that he/she used code review, code inspection etc.
+* ... verified bugs are 29% less likely to be reopened if the verification occurred in a day with intense verification activity.
+
+Do these results make sense?
+
+Please, let me know what you think about the results. It'll be a pleasure to share with you more facts extracted from Eclipse's bug reports, but I need to understand better what happens behind the scenes (e.g., why some bugs are verified by the fixer?) so results can become more meaningful.
+
+Thanks,
+Rodrigo
+
+------------------------------
+
+Milestone releases each 6 weeks. Milestones are public
+
+
+Milestones first 
+We use a 6 week cycle. Each milestone is a mini dev cycle. plan/execute/test/retrospective. Milestones reduce stress. 
+
+Continuous integration 
+Fully automated build process and tests. Nightly builds discover integration problems between components. Weekly integration builds, all automatic unit tests must be successful, good enough for our own use. Milestone builds, good enough for the community to use 
+In case of build failure, rebuild to create acceptable integration, milestone builds. 
+
+Continuous testing 
+Originally we didn't have unit tests. It was like driving with closed eyes. Now have >20,000 JUnit tests, tightly integrated into the build process. Integration builds are only green when all tests pass. We have 3 different kinds of tests: correctness, performance, resource. 
+
+"It is important that the verifier be a different person than the fixer because the fixer is too close to the code and thus may not be as diligent at testing the corner cases." (http://wiki.eclipse.org/Development_Resources/HOWTO/Bugzilla_Use)
+
+
+--------
+
+1) minhas suposições sobre o processo do Eclipse estão corretas? (i.e., não há equipe de testes e há fase de testes)
+2) como é feita a verificação? O que de fato ocorreu quando alguém marcou um bug como VERIFIED?
+
+sim... mas também pode pedir para eles comentarem sobre os dados
+o que eles acham destes números de 1.6 a 14.1 bugs verificados reabertos por semana
+
+-- Qual sua percepção sobre bugs reabertos? É um problema sério? O que é está sendo feito e o que ainda pode ser feito para reduzir a reabertura ou diminuir os seus impactos negativos sobre o projeto?
+
+Verified with Build id: 200411022000. What it means?
+
+Solaris, Motif, I200411022000. --- I = integration build. N = nightly build.
+
+Verified in the 3.0.2 RC2 build
+
+often fixer asks someone else to verify.
+
+No Eclipse/Platform, foi encontrado um padrão de colaboração entre desenvolve- dores na resolução e verificação de defeitos. Frequentemente o desenvolvedor que corrige o defeito solicita a outro desenvolvedor que verifique a correção. Se este desenvolvedor decide que a correção não é adequada e reabre o defeito, ele propõe uma nova correção e solicita ao primeiro desenvolvedor que verifique a correção, e assim sucessivamente (como no tíquete número 14758). Esse padrão sugere que não há desenvolvedores espe- cializados em qualidade; em vez disso, os desenvolvedores são generalistas.
+
+Foram encontradas, nos projetos Eclipse/Platform e NetBeans/Platform, evidências estatísticas significativas de que defeitos verifi- cados durante a fase de verificação têm menos chance de serem reabertos (1,29 vezes menos chance no Eclipse/Platform, p = 0,015, e 1,75 menos chance no NetBeans/Platform, p = 0,001). Nos outros dois projetos não foi encontrada evi- dência significativa.
+
+Revisão de código vs. reabertura. Foi estudado somente o projeto Eclipse/Platform, no qual foi possível identificar a técnica de verificação empregada em cerca de 4% dos casos. As evidências apontam que verificações que incluem revisão de código têm 4 vezes menos chance de serem reabertos (p < 0,001).
+
+Não foi encontrada evidência es- tatística suficiente para supor que defeitos tratados conforme o princípio dos quatro olhos têm menor chance de ser reabertos.
+
+## See also
+
+
+* http://www.eclipsecon.org/2005/presentations/econ2005-eclipse-way.pdf
+* http://www.eclipsezone.com/eclipse/forums/t20805.html
+* http://www.zdnet.com/blog/burnette/day-2-stories-along-the-eclipse-way/43
+* http://www.zdnet.com/blog/burnette/day-4-java-in-the-trenches-the-eclipse-way/113
+* http://rodrigorgs.github.io/phd-dashboard/eclipseplatform.html

@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Pitch"
+date: 2013-06-09 09:24
+comments: true
+categories: phd
+---
+
+Goal: measure the *impact* of *reopened bugs* on software projects and determine how the software *verification* process can be *improved* in order to reduce bug reopening and its impacts.

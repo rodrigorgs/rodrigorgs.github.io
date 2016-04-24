@@ -1,0 +1,44 @@
+---
+layout: post
+title: "3º Objetivo: Investigar a Influência do Processo de Correção e Verificação na Reabertura de Defeitos"
+date: 2013-09-12 10:32
+comments: true
+categories: phd
+---
+
+Cumpridos os [objetivos específicos apresentados anteriormente](/blog/2013/06/19/objective2/), adquire-se uma compreensão abrangente do fenômeno de reabertura de defeitos e suas consequências negativas, bem como do processo de verificação de correções e suas nuances. Cabe então investigar a relação entre as duas coisas: até que ponto a verificação de correções reduz a ocorrência e os impactos da reabertura de defeitos? Este objetivo envolve a investigação das seguintes questões de pesquisa:
+
+* RQ3.1: Qual o impacto do instante da verificação na reabertura de defeitos? Mais especificamente:
+  * é mais eficaz (para evitar reaberturas) ter uma fase de verificação ou verificar defeitos o tempo todo?
+  * dentre os defeitos reabertos, quais demoram mais para serem corrigidos (calcula-se o intervalo de tempo decorrido entre a rebertura e a correção subsequente): aqueles verificados em uma fase de verificação ou fora dela?
+* RQ3.2: Qual o impacto da equipe de qualidade na reabertura de defeitos? Mais especificamente:
+  * defeitos verificados pela equipe de qualidade apresentam menos chance de ser reabertos?
+  * defeitos verificados pela equipe de qualidade, quando reabertos, apresentam um tempo de vida menor?
+* RQ3.3: Qual o impacto da técnica de verificação na reabertura de defeitos? Mais especificamente:
+  * quais técnicas de verificação contribuem mais para evitar a reabertura de defeitos?
+  * quais técnicas de verificação contribuem para reduzir o tempo de vida de defeitos reabertos?
+
+Além dos métodos empregados anteriormente, são empregados testes estatísticos de hipótese, mais especificamente testes de associação entre as variáveis, como o teste exato de Fisher. O planejamento detalhado dos estudos ainda está sendo realizado. Segue, a título de exemplo, um esboço dos passos que devem ser seguidos ao se estudar a relação entre equipe de qualidade e reabertura (RQ3.2):
+
+* são selecionados todos os tíquetes de um projeto;
+* tíquetes de requisição de melhorias são descartados;
+* tíquetes que sofreram alguma edição em massa são descartados;
+* são descartados todos os tíquetes cuja última atualização tenha ocorrido menos de um ano (mais de 90% dos tíquetes dos projetos Eclipse/Platform e NetBeans/Platform são reabertos menos de um ano depois de serem corrigidos) antes do último dia disponível nos dados; o objetivo é selecionar apenas tíquetes cujo histórico completo esteja disponível --- considera-se que, se o tíquete passou um ano sem ser modificado, ele provavelmente não será mais modificado;
+* são identificados os usuários que possuem mais de uma conta no sistema de acompanhamento de defeitos e são criados identificadores únicos para eles;
+* reaberturas que ocorrem poucos dias (quantos?) depois da correção são desconsideradas, sob a justificativa de que seu impacto sobre o desenvolvimento é baixo;
+* são descartadas as verificações relatadas pela pessoa que corrigiu o defeito, e que ocorrem alguns minutos (quantos?) depois da correção, por se considerar que, nesse caso, a correção e a verificação não foram executadas como tarefas bem separadas;
+* os defeitos são classificados de acordo com sua severidade, sua prioridade, e do componente que apresentou defeito.
+* identifica-se o papel de cada desenvolvedor, isto é, se ele faz parte da equipe de qualidade (QA) ou não.
+* são selecionados apenas os tíquetes verificados;
+* os tíquetes são classificados segundo o papel do verificador, i.e., do desenvolvedor que o verificou: QA ou não-QA;
+* constrói-se uma tabela de contingência, com a contagem de tíquetes agrupados em duas dimensões: reaberto/não-reaberto e QA/não-QA.
+* executa-se o teste exato de Fisher para determinar, com certo nível de confiança, se há associação entre o papel do verificador e a reabertura de defeitos;
+* por fim, verifica-se se existe associação quando outras variáveis são levadas em consideração (prioridade, severidade, componente); o método estatístico a ser empregado ainda é um ponto de discussão.
+
+O último ponto é destinado a isolar o efeito do papel do verificador sobre a reabertura. Pode-se descobrir, por exemplo, que a equipe de qualidade tende a verificar os defeitos mais severos (e possivelmente mais difíceis de corrigir e verificar), e por isso tende a provocar mais reaberturas, proporcionalmente, do que os demais desenvolvedores, que tendem a verificar defeitos mais fáceis. Diz-se, neste caso, que a severidade é uma *variável de confusão*, papel do desenvolvedor é uma *variável de exposição* e reabertura é uma *variável de efeito*.
+
+Existem diversas abordagens para controlar variáveis de confusão, de forma a se medir a influência da variável de exposição na variável de efeito (no exemplo, efeito do papel do desenvolvedor na reabertura de defeitos). Dois métodos comuns que estão sendo considerados nesta pesquisa são a estratificação e a regressão.
+
+Na estratificação, a variável de confusão é dividida em estratos (isto é, subgrupos) e então se comparam os efeitos em cada estrato, de acordo com a exposição. No exemplo, pode-se calcular a taxa de reabertura para cada severidade e cada papel (exposição), e então computar a razão entre as duas taxas em cada nível de severidade (estrato). Por fim, pode-se obter uma razão geral ao calcular a média das razões, ponderada de acordo com a prevalência do estrato na população.
+
+Na regressão, constrói-se um modelo que relaciona as variáveis explanatórias (variáveis de confusão e de exposição) à variável de efeito através de uma expressão matemática (um método mais elaborado, que usa regressão, é o *propensity score matching*, que leva em consideração a probabilidade de cada indivíduo ser submetido à variável de exposição). O coeficiente encontrado para a variável de exposição pode ser interpretado como a variação esperada na variável de efeito quando a variável de exposição aumenta em uma unidade, mantendo as demais variáveis constantes. Assume-se, no entanto, que as variáveis explanatórias não estão altamente relacionadas.
