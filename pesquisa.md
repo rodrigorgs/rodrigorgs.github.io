@@ -13,6 +13,8 @@ A seguir, algumas áreas nas quais não sou especialista, mas tenho interesse es
 
 **Análise de dados**, principalmente aplicada à engenharia de software, mas também a desenvolvimento de jogos, educação e outras áreas.
 
+**Software livre**.
+
 **Desenvolvimento para dispositivos móveis**: entre 2009 e 2010 [criei aplicativos para iOS](http://rodenapps.blogspot.com.br/) e mergulhei no mundo mobile. Ensinei uma [disciplina em nível de graduação](https://disciplinas.dcc.ufba.br/MATC89/20122) e fiz uma [análise estatística do mercado as App Stores no Brasil](http://appventura.blogspot.com.br/).
 
 **Música**.
