@@ -5,6 +5,8 @@ title: Pesquisa
 
 Minha principal área de pesquisa é **engenharia de software**, com foco em engenharia de software experimental, evolução e manutenção de software, mineração de repositórios de software, engenharia de releases e qualidade de software (produto). Anteriormente trabalhei com engenharia reversa de software, redes complexas em software, recuperação de arquitetura de software, visualização de software.
 
+Veja também [Datasets para mineração de software]({{site.baseurl}}/msr-datasets).
+
 ## Outras áreas de interesse
 
 A seguir, algumas áreas nas quais não sou especialista, mas tenho interesse especial e algum conhecimento:
