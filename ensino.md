@@ -7,6 +7,10 @@ title: Ensino
 
 Disciplinas da UFBA, a não ser onde especificado diferentemente.
 
+- 2016.1
+  - [MATA56: Paradigmas de Linguagens de Programação](https://rodrigorgs.github.io/mata56/) (duas turmas)
+  - [MATA62: Engenharia de Software I](https://rodrigorgs.github.io/mata62/)
+  - (pós) MATE94: Engenharia de Software Experimental
 - 2015.2
   - [MATA56: Paradigmas de Linguagens de Programação](https://disciplinas.dcc.ufba.br/MATA56/Aulas20152)
   - [MATA60: Banco de Dados](https://disciplinas.dcc.ufba.br/MATA60/Aulas20152)
@@ -37,4 +41,3 @@ Disciplinas da UFBA, a não ser onde especificado diferentemente.
 - (40h) RNP: Administração de Sistemas Linux (ADS2), 2013 (monitor)
 - (40h) RNP: Introdução ao Linux (ADS1), 2014 (monitor)
 - (4h) [Minicurso Introdução ao Android](http://www.slideshare.net/xrodrigorgs/minicurso-androiduefs), na Semana de Integração dos Estudantes de Engenharia de Computação (SIECOMP) da Universidade Estadual de Feira de Santana (UEFS), 11 de março de 2013.
-
