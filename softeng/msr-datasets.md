@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Datasets para mineração de software"
+permalink: /msr-datasets
 ---
 
 ## MSR Mining Challenge
