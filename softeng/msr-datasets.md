@@ -6,6 +6,7 @@ permalink: /msr-datasets
 
 ## MSR Mining Challenge
 
+- [2017](http://2017.msrconf.org/#/challenge): TravisTorrent (resultado de builds de mais de mil projetos no serviço de integração contínua Travis CI)
 - [2016](http://2016.msrconf.org/#/challenge): Boa (serviço web que permite minerar 700 mil projetos do SourceForge e 8 milhões do GitHub usando uma linguagem específica de domínio)
 - [2015](http://2015.msrconf.org/challenge.php): dump do banco de dados do StackOverflow
 - [2014](http://2014.msrconf.org/challenge.php): 90 projetos do GitHub (MySQL ou MongoDB)
