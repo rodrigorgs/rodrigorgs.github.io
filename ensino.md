@@ -10,11 +10,11 @@ Disciplinas da UFBA, a não ser onde especificado diferentemente.
 - 2016.1
   - [MATA56: Paradigmas de Linguagens de Programação](https://rodrigorgs.github.io/mata56/) (duas turmas)
   - [MATA62: Engenharia de Software I](https://rodrigorgs.github.io/mata62/)
-  - (pós) MATE94: Engenharia de Software Experimental
+  - (pós) [MATE94: Engenharia de Software Experimental](https://github.com/rodrigorgs/analise-quantitativa20161)
 - 2015.2
   - [MATA56: Paradigmas de Linguagens de Programação](https://disciplinas.dcc.ufba.br/MATA56/Aulas20152)
   - [MATA60: Banco de Dados](https://disciplinas.dcc.ufba.br/MATA60/Aulas20152)
-  - (pós) MATE94: Engenharia de Software Experimental
+  - (pós) [MATE94: Engenharia de Software Experimental](https://docs.google.com/presentation/d/1V4v10it-USgtw4_uaXozm6Tt-QFQEK3Ma8ZhF9QRTPI/edit?usp=drive_web)
 - 2015.1
   - [MATA37: Introdução à Lógica de Programação](http://www.novomoodle.ufba.br/course/view.php?id=870)
   - [MATA40: Estruturas de Dados e Algoritmos]
