@@ -7,6 +7,10 @@ title: Ensino
 
 Disciplinas da UFBA, a não ser onde especificado diferentemente.
 
+- 2016.2
+  - [MATA56: Paradigmas de Linguagens de Programação]()
+  - [MATA62: Engenharia de Software I]()
+  - [(pós) MATE94: Engenharia de Software Experimental]()
 - 2016.1
   - [MATA56: Paradigmas de Linguagens de Programação](https://rodrigorgs.github.io/mata56/) (duas turmas)
   - [MATA62: Engenharia de Software I](https://rodrigorgs.github.io/mata62/)
@@ -18,9 +22,9 @@ Disciplinas da UFBA, a não ser onde especificado diferentemente.
 - 2015.1
   - [MATA37: Introdução à Lógica de Programação](http://www.novomoodle.ufba.br/course/view.php?id=870)
   - [MATA40: Estruturas de Dados e Algoritmos]
-  - [MAT220: Empreendedores em Informática](http://www.novomoodle.ufba.br/course/view.php?id=869)
+  - [MAT220: Empreendedores em Informática](http://www.novomoodle.ufba.br/course/view.php?id=869) (duas turmas)
 - 2013.1
-  - MATA62 – Engenharia de Software I (estágio docência; prof. Christina von Flach)
+  - MATA62: Engenharia de Software I (estágio docência; prof. Christina von Flach)
   - (pós) [Desenvolvimento de Jogos](https://sites.google.com/site/jogosruy/) (Faculdade Ruy Barbosa)
 - 2012.2
   - [MATC89: Aplicações para Dispositivos Móveis](https://disciplinas.dcc.ufba.br/MATC89/20122) (estágio docência; prof. Christina von Flach)

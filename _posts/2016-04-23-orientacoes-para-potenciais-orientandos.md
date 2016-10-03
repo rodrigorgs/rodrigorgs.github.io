@@ -20,7 +20,7 @@ Realize várias buscas, usando termos diferentes que se referem àquilo que dese
 
 ### Download
 
-Muitos artigos não estão gratuitamente disponíveis na internet, mas estão acessíveis se você estiver acessando da rede da UFBA. Se você estiver fora da UFBA, você pode acessar os artigos através do [Portal de Periódicos CAPES/MEC](http://periodicos.capes.gov.br/), clicando em "Meu Espaço" e escolhendo "Acesso remoto via CAFe".
+Muitos artigos não estão gratuitamente disponíveis na internet, mas estão acessíveis se você estiver acessando da rede da UFBA. Se você estiver fora da UFBA, você pode acessar os artigos através do [Portal de Periódicos CAPES/MEC](http://periodicos.capes.gov.br/), clicando em "Meu Espaço" e escolhendo "Acesso remoto via CAFe" (instruções detalhadas no [site da STI-UFBA](https://wiki-sti.ufba.br/Cafe/PeriodicosCAPES)).
 
 ### Leitura
 
@@ -86,10 +86,10 @@ Se seu domínio de inglês for baixo, o processo de escrita pode ser longo e o r
 
 ## Apresentações
 
-Existe muito material na web sobre como criar bons slides para apresentações. Algumas orientações incluem evitar muito texto, não usar fonte muito pequena, e usar imagens.
+Existe muito material na web sobre como criar bons slides para apresentações. Algumas orientações incluem **evitar muito texto**, **não usar fonte muito pequena** e **usar imagens**.
 
-Sobre a apresentação em si, também há várias dicas: fale em voz alta, varie a altura e o ritmo da voz para prender a atenção, preparar e decorar o que você vai falar no início da apresentação (pois é quando você estará mais nervoso), entre outras.
+Sobre a apresentação em si, também há várias dicas: falar em voz alta, variar a altura e o ritmo da voz para prender a atenção, preparar e decorar o que você vai falar no início da apresentação (pois é quando você estará mais nervoso), entre outras.
 
-A dica mais importante: ensaie sua apresentação várias vezes, contando o tempo. Ensaiar significa apresentar para alguém, como se fosse para valer (na falta disso, ensaie para você mesmo, mas faça isso em voz alta, de forma realista). Peça para a pessoa anotar os principais problemas para que você possa corrigir depois.
+A dica mais importante: **ensaie sua apresentação várias vezes, contando o tempo**. Ensaiar significa apresentar para alguém, como se fosse para valer (na falta disso, ensaie para você mesmo, mas faça isso em voz alta, de forma realista). Peça para a pessoa anotar os principais problemas para que você possa corrigir depois. Para facilitar a vida de quem está anotando, **numere seus slides**.
 
 Se você for igual a mim, o primeiro ensaio vai ser horrível: alguns pontos não vão ficar claros, você vai gastar muito tempo em algo que não é tão importante (talvez por falta de uma figura explicativa?). Faz parte do processo.
