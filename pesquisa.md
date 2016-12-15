@@ -9,7 +9,9 @@ Minha principal área de pesquisa é **engenharia de software**, com foco em eng
 
 Veja também:
 
-- [Datasets para mineração de software]({{site.baseurl}}/msr-datasets).
+- O que é mineração de repositórios de software? Leia o artigo [Gerosa, Wiese, Oliva e Aniche](http://www.aniche.com.br/wp-content/uploads/2013/04/sbc-revista-2015.pdf).
+- [Datasets para mineração de software]({{site.baseurl}}/msr-datasets)
+- [Ferramentas para mineração de software]({{site.baseurl}}/msr-tools)
 - [Resumos de artigos sobre evolução de software]({{site.baseurl}}/softeng/resumos-evolucao)
 
 ## Outras áreas de interesse

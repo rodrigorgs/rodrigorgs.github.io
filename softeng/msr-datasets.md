@@ -25,6 +25,7 @@ permalink: /msr-datasets
 
 - [GHTorrent](http://ghtorrent.org/): mirror offline dos dados de projetos do GitHub
 - [GitHub Data @ Google Big Query](https://cloud.google.com/bigquery/public-data/github): dados do GitHub acessíveis através da infraestrutura do Google
+- [Stack Overflow Data @ Google Big Query](https://cloud.google.com/bigquery/public-data/stackoverflow): dados do Stack Overflow acessíveis através da infraestrutura do Google
 - [Boa](http://boa.cs.iastate.edu/): serviço web que permite minerar 700 mil projetos do SourceForge e 8 milhões do GitHub usando uma linguagem específica de domínio
 - Andreas Zeller:
     + [Eclipse Bug Data!](https://www.st.cs.uni-saarland.de/softevo/bug-data/eclipse/) (2007): densidade de defeitos de todos os componentes (classes ou pacotes) do Eclipse (a partir de mapeamento de bugs para código). Formatos: ARFF, CSV, XML.
