@@ -68,7 +68,10 @@ Escrever é um processo iterativo: você escreve, escreve, escreve, e depois rev
 
 Quando você revisa seu próprio texto, você pode acabar deixando passar alguns problemas por estar muito próximo do texto. Faça o possível para que outras pessoas leiam criticamente o seu texto, principalmente seu orientador.
 
-Existe muito mais a dizer sobre como escrever bem. Pesquise na web para encontrar outras orientações.
+Existe muito mais a dizer sobre como escrever bem. Algumas boas referências:
+
+- [Ten simple rules for structuring papers](http://biorxiv.org/content/biorxiv/early/2016/11/28/088278.full.pdf)
+- [The Elements of Style (livro)](https://en.wikipedia.org/wiki/The_Elements_of_Style)
 
 ### Escrita em inglês
 
