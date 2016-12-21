@@ -8,6 +8,7 @@ permalink: /data-analysis
 
 - [R for Data Science](http://r4ds.had.co.nz/)
 - [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php?stat_book=os)
+- [A non-comprehensive list of awesome things other people did in 2016](http://simplystatistics.org/2016/12/20/noncomprehensive-list-of-awesome/)
 
 ## Análise de dados em engenharia de software
 
