@@ -17,6 +17,8 @@ Quer fazer um projeto final de graduação ou dissertação de mestrado comigo? 
 **Mestrado** (entre parênteses, início no curso):
 
 - (2016.1) Daniel Luis Moreira Timponi
+- (2016.2) Juvenal Constantino de Macêdo Júnior
+- (2016.2) Rafael Gomes
 
 **Graduação** (entre parênteses, período do início da orientação):
 
