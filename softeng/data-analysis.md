@@ -16,3 +16,7 @@ permalink: /data-analysis
 - [The Art and Science of Analyzing Software Data](http://thomas-zimmermann.com/2015/09/analyzing-software-data-book/)
 - [Analyze This! 145 Questions for Data Scientists in Software Engineering](https://www.microsoft.com/en-us/research/publication/analyze-this-145-questions-for-data-scientists-in-software-engineering/)
 - [Material da disciplina MATE94](https://github.com/rodrigorgs/analise-quantitativa20161)
+
+## Pesquisa reprodutível
+
+- [Barba-group reproducibility syllabus](https://hackernoon.com/barba-group-reproducibility-syllabus-e3757ee635cf#.uxbdg5pxd)

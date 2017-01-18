@@ -70,8 +70,9 @@ Quando você revisa seu próprio texto, você pode acabar deixando passar alguns
 
 Existe muito mais a dizer sobre como escrever bem. Algumas boas referências:
 
-- [Ten simple rules for structuring papers](http://biorxiv.org/content/biorxiv/early/2016/11/28/088278.full.pdf)
-- [The Elements of Style (livro)](https://en.wikipedia.org/wiki/The_Elements_of_Style)
+- [Ten simple rules for structuring papers](http://biorxiv.org/content/biorxiv/early/2016/11/28/088278.full.pdf) - aborda a estrutura macro do texto, o encadeamento de ideias.
+- [The Elements of Style (livro)](https://en.wikipedia.org/wiki/The_Elements_of_Style) - aborda a estrutura micro, a formação de frases.
+- [Stanford Online: Writing in the Sciences](https://www.youtube.com/watch?v=PPsocEFCGRU&list=PLUk4uy2jPpXVGXqVhgs352q6jOdI608Qg&index=1) - mostra na prática como textos podem ser melhorados através da revisão.
 
 ### Escrita em inglês
 
