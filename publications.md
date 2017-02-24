@@ -10,6 +10,10 @@ title: "Publications"
 - [ResearchGate](https://www.researchgate.net/profile/Rodrigo_Souza3)
 - [dblp](http://dblp.uni-trier.de/pers/hd/s/Souza:Rodrigo_R=_G=)
 
+## 2017
+
+* SOUZA, R. ; OLIVEIRA, A. **GuideAutomator: Continuous Delivery of End User Documentation**. In: 39th International Conference on Software Engineering (ICSE), New Ideas and Emerging Results (NIER) track, 2017. ([paper]({{site.baseurl}}/files/icse-nier2017-rodrigo.pdf))
+
 ## 2015-2016
 
 * OLIVEIRA, A. ; SOUZA, R. **GuideAutomator: Automated User Manual Generation with Markdown**. In: VII Congresso Brasileiro de Software, Sessão de Ferramentas, 2016.
