@@ -12,6 +12,7 @@ title: "Publications"
 
 ## 2017
 
+* SOUZA, R. ; SILVA, B. **Sentiment Analysis of Travis CI Builds**. In: 14th International Conference on Mining Software Repositories, 2017. ([paper]({{site.baseurl}}/files/msr2017-rodrigo.pdf))
 * SOUZA, R. ; OLIVEIRA, A. **GuideAutomator: Continuous Delivery of End User Documentation**. In: 39th International Conference on Software Engineering (ICSE), New Ideas and Emerging Results (NIER) track, 2017. ([paper]({{site.baseurl}}/files/icse-nier2017-rodrigo.pdf))
 
 ## 2015-2016
