@@ -17,7 +17,7 @@ title: "Publications"
 
 ## 2015-2016
 
-* OLIVEIRA, A. ; SOUZA, R. **GuideAutomator: Automated User Manual Generation with Markdown**. In: VII Congresso Brasileiro de Software, Sessão de Ferramentas, 2016.
+* OLIVEIRA, A. ; SOUZA, R. **GuideAutomator: Automated User Manual Generation with Markdown**. In: VII Congresso Brasileiro de Software, Sessão de Ferramentas, 2016. ([paper]({{site.baseurl}}/files/cbsoft2016-tools.pdf))
 * GOMES, R. ; SOUZA, R. **Docker - Infraestrutura como código, com autonomia e replicabilidade**. In: IX Workshop de Tecnologia da Informação e Comunicação das IFES, 2015.
 * SOUZA, R. ; CHAVEZ, C. ; BITTENCOURT, R. A. **Patch rejection in Firefox: negative reviews, backouts, and issue reopening**. In: Journal of Software Engineering Research and Development (JSERD), 2015. ([online edition](http://www.jserd.com/content/3/1/9))
 * SOUZA, R. ; CHAVEZ, C. ; BITTENCOURT, R. A. **On Integration Repositories, Build Sheriffs, and Patch Backouts**. In: Tiny Transactions on Computer Science (TinyToCS), Volume 3, 2015. ([paper](http://tinytocs.org/vol3/papers/TinyToCS_3_souza.pdf))
