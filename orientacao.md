@@ -24,13 +24,10 @@ Quer fazer um projeto final de graduação ou dissertação de mestrado comigo? 
 
 - (2015.2) Philippe Luiz Barbosa Correia
 - (2016.1) Lucas Ayres
-- (2016.1) Gabriel Erbetta
 - (2016.1) Renata de Gino
-- (2016.1) Tercio Souza de Jesus
 - (2016.2) Carla Drieli de Oliveira Melo
 - (2016.2) Igor Andrade
 - (2016.2) Jose Olimpio Mouzinho Negrão
-- (2016.2) Laiza Costa Camurugy
 - (2016.2) Rodrigo de Morais Cayres
 - (2016.2) Welbert Azevedo Serra
 
@@ -38,6 +35,15 @@ Quer fazer um projeto final de graduação ou dissertação de mestrado comigo? 
 
 **Graduação** (entre parênteses, semestre de conclusão)
 
+- (2016.1) Gabriel Assis Erbetta
+  - **MeuHorário 2: uma aplicação web para simulação de matrícula**
+  - [código-fonte da monografia](https://www.overleaf.com/read/srfvzchthhst), [slides](http://slides.com/gabrielerbetta/meuhorario-2), [software](https://github.com/gabrielerbetta/meuhorario2)
+- (2016.2) Laiza Costa Camurugy
+  - **Modelagem de jogos de adventure através de Machinations**
+  - [slides]({{site.baseurl/files/monografia-laiza-slides.pdf}}), [software](https://github.com/fayalita/machinations_examples)
+- (2016.1) Tercio Souza de Jesus
+  - **Chordix: um aplicativo para auto-acompanhamento musical através de cifras**
+  - [código-fonte da monografia](https://www.overleaf.com/read/bxxpxprzkhrj), [slides](http://slides.com/terciodejesus/chordix#/), [software](https://github.com/terciodejesus/chordix)
 - (2016.1) Allan dos Santos Oliveira
     - **GuideAutomator: Automated User Manual Generation with Markdown**
     - [monografia](https://repositorio.ufba.br/ri/handle/ri/20947), [código-fonte da monografia](https://www.overleaf.com/read/ybbwpzjdwbtd), [slides]({{site.baseurl}}/files/orientacao/AllanDosSantosOliveira-slides.pdf), [software](https://github.com/Allan1/guide-automator)
