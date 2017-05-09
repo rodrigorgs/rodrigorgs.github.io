@@ -10,7 +10,7 @@ Disciplinas da UFBA, a não ser onde especificado diferentemente.
 - 2017.1
   - [MATA37: Introdução à Lógica de Programação](mata37)
   - [MATA56: Paradigmas de Linguagens de Programação](mata56)
-  - [MATE94: Engenharia de Software Experimental](#https://github.com/rodrigorgs/analise-quantitativa20162)
+  - [(pós) MATE94: Engenharia de Software Experimental](#https://github.com/rodrigorgs/analise-quantitativa20162)
 - 2016.2
   - [MATA56: Paradigmas de Linguagens de Programação](https://github.com/rodrigorgs/mata56-20162)
   - [MATA62: Engenharia de Software I](https://github.com/rodrigorgs/mata62-20162)
