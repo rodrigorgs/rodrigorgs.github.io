@@ -7,13 +7,17 @@ title: Ensino
 
 Disciplinas da UFBA, a não ser onde especificado diferentemente.
 
+- 2017.1
+  - [MATA37: Introdução à Lógica de Programação](mata37)
+  - [MATA56: Paradigmas de Linguagens de Programação](mata56)
+  - [MATE94: Engenharia de Software Experimental](#https://github.com/rodrigorgs/analise-quantitativa20162)
 - 2016.2
-  - [MATA56: Paradigmas de Linguagens de Programação]()
-  - [MATA62: Engenharia de Software I]()
-  - [(pós) MATE94: Engenharia de Software Experimental]()
+  - [MATA56: Paradigmas de Linguagens de Programação](https://github.com/rodrigorgs/mata56-20162)
+  - [MATA62: Engenharia de Software I](https://github.com/rodrigorgs/mata62-20162)
+  - [(pós) MATE94: Engenharia de Software Experimental](https://github.com/rodrigorgs/analise-quantitativa20162)
 - 2016.1
-  - [MATA56: Paradigmas de Linguagens de Programação](https://rodrigorgs.github.io/mata56/) (duas turmas)
-  - [MATA62: Engenharia de Software I](https://rodrigorgs.github.io/mata62/)
+  - [MATA56: Paradigmas de Linguagens de Programação](https://rodrigorgs.github.io/mata56-20161/) (duas turmas)
+  - [MATA62: Engenharia de Software I](https://rodrigorgs.github.io/mata62-20161/)
   - (pós) [MATE94: Engenharia de Software Experimental](https://github.com/rodrigorgs/analise-quantitativa20161)
 - 2015.2
   - [MATA56: Paradigmas de Linguagens de Programação](https://disciplinas.dcc.ufba.br/MATA56/Aulas20152) ([material complementar](http://rodrigorgs.github.io/mata56-20152/))
