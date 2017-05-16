@@ -19,6 +19,7 @@ Quer fazer um projeto final de graduação ou dissertação de mestrado comigo? 
 - (2016.1) Daniel Luis Moreira Timponi
 - (2016.2) Juvenal Constantino de Macêdo Júnior
 - (2016.2) Rafael Gomes
+- (2017.1) Iury Maia
 
 **Graduação** (entre parênteses, período do início da orientação):
 
@@ -30,6 +31,7 @@ Quer fazer um projeto final de graduação ou dissertação de mestrado comigo? 
 - (2016.2) Jose Olimpio Mouzinho Negrão
 - (2016.2) Rodrigo de Morais Cayres
 - (2016.2) Welbert Azevedo Serra
+- (2017.1) Luan Menezes
 
 ### Egressos
 
