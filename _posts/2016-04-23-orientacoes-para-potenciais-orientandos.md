@@ -97,3 +97,7 @@ Sobre a apresentação em si, também há várias dicas: falar em voz alta, vari
 A dica mais importante: **ensaie sua apresentação várias vezes, contando o tempo**. Ensaiar significa apresentar para alguém, como se fosse para valer (na falta disso, ensaie para você mesmo, mas faça isso em voz alta, de forma realista). Peça para a pessoa anotar os principais problemas para que você possa corrigir depois. Para facilitar a vida de quem está anotando, **numere seus slides**.
 
 Se você for igual a mim, o primeiro ensaio vai ser horrível: alguns pontos não vão ficar claros, você vai gastar muito tempo em algo que não é tão importante (talvez por falta de uma figura explicativa?). Faz parte do processo.
+
+## Outras informações
+
+- [Formulários e documentos para qualificação de mestrado (MATD75)](https://gitlab.com/PGCOMP-UFBA/templates/tree/master/MATD75)
