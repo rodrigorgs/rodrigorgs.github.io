@@ -42,7 +42,7 @@ Quer fazer um projeto final de graduação ou dissertação de mestrado comigo? 
   - [código-fonte da monografia](https://www.overleaf.com/read/srfvzchthhst), [slides](http://slides.com/gabrielerbetta/meuhorario-2), [software](https://github.com/gabrielerbetta/meuhorario2)
 - (2016.2) Laiza Costa Camurugy
   - **Modelagem de jogos de adventure através de Machinations**
-  - [slides]({{site.baseurl/files/monografia-laiza-slides.pdf}}), [software](https://github.com/fayalita/machinations_examples)
+  - [slides]({{site.baseurl}}/files/monografia-laiza-slides.pdf), [software](https://github.com/fayalita/machinations_examples)
 - (2016.1) Tercio Souza de Jesus
   - **Chordix: um aplicativo para auto-acompanhamento musical através de cifras**
   - [código-fonte da monografia](https://www.overleaf.com/read/bxxpxprzkhrj), [slides](http://slides.com/terciodejesus/chordix#/), [software](https://github.com/terciodejesus/chordix)
