@@ -12,8 +12,8 @@ title: "Publications"
 
 ## 2017
 
-* SOUZA, R. ; SILVA, B. **Sentiment Analysis of Travis CI Builds**. In: 14th International Conference on Mining Software Repositories, 2017. ([paper]({{site.baseurl}}/files/msr2017-rodrigo.pdf), [slides](https://speakerdeck.com/rodrigorgs/sentiment-analysis-of-travis-ci-builds))
-* SOUZA, R. ; OLIVEIRA, A. **GuideAutomator: Continuous Delivery of End User Documentation**. In: 39th International Conference on Software Engineering (ICSE), New Ideas and Emerging Results (NIER) track, 2017. ([paper]({{site.baseurl}}/files/icse-nier2017-rodrigo.pdf), [poster]({{site.baseurl}}/files/nier17-guideautomator-poster.pdf), [slides](https://speakerdeck.com/rodrigorgs/guideautomator-continuous-delivery-of-end-user-documentation))
+* SOUZA, R. ; SILVA, B. **Sentiment Analysis of Travis CI Builds**. In: 14th International Conference on Mining Software Repositories, 2017. ([paper]({{site.baseurl}}/files/msr2017-rodrigo.pdf), [slides](https://speakerdeck.com/rodrigorgs/sentiment-analysis-of-travis-ci-builds), [video](https://youtu.be/Wl5-IurNsjg))
+* SOUZA, R. ; OLIVEIRA, A. **GuideAutomator: Continuous Delivery of End User Documentation**. In: 39th International Conference on Software Engineering (ICSE), New Ideas and Emerging Results (NIER) track, 2017. ([paper]({{site.baseurl}}/files/icse-nier2017-rodrigo.pdf), [poster]({{site.baseurl}}/files/nier17-guideautomator-poster.pdf), [slides](https://speakerdeck.com/rodrigorgs/guideautomator-continuous-delivery-of-end-user-documentation), [video](https://youtu.be/hjNiQJ4_iOY))
 
 ## 2015-2016
 
