@@ -37,13 +37,13 @@ Quer fazer um projeto final de graduação ou dissertação de mestrado comigo? 
 
 **Graduação** (entre parênteses, semestre de conclusão)
 
-- (2016.1) Gabriel Assis Erbetta
+- (2016.2) Gabriel Assis Erbetta
   - **MeuHorário 2: uma aplicação web para simulação de matrícula**
   - [monografia](http://repositorio.ufba.br/ri/handle/ri/22939), [código-fonte da monografia](https://www.overleaf.com/read/srfvzchthhst), [slides](http://slides.com/gabrielerbetta/meuhorario-2), [software](https://github.com/gabrielerbetta/meuhorario2)
 - (2016.2) Laiza Costa Camurugy
   - **Modelagem de jogos de adventure através de Machinations**
   - [monografia](http://repositorio.ufba.br/ri/handle/ri/22938), [slides]({{site.baseurl}}/files/monografia-laiza-slides.pdf), [software](https://github.com/fayalita/machinations_examples)
-- (2016.1) Tercio Souza de Jesus
+- (2016.2) Tercio Souza de Jesus
   - **Chordix: um aplicativo para auto-acompanhamento musical através de cifras**
   - [monografia](http://repositorio.ufba.br/ri/handle/ri/22942), [código-fonte da monografia](https://www.overleaf.com/read/bxxpxprzkhrj), [slides](http://slides.com/terciodejesus/chordix#/), [software](https://github.com/terciodejesus/chordix)
 - (2016.1) Allan dos Santos Oliveira
