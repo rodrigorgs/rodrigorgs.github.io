@@ -37,6 +37,9 @@ Quer fazer um projeto final de graduação ou dissertação de mestrado comigo? 
 
 **Graduação** (entre parênteses, semestre de conclusão)
 
+- (2017.1) Welbert Azevedo Serra
+  - **Avaliação experimental e melhoria do GuideAutomator, uma ferramenta para criação de manuais de usuário**
+  - [monografia](https://repositorio.ufba.br/ri/handle/ri/24733), [código-fonte da monografia](https://www.sharelatex.com/read/fxpptyvhfftr), [software](https://github.com/aside-ufba/guide-automator)
 - (2016.2) Gabriel Assis Erbetta
   - **MeuHorário 2: uma aplicação web para simulação de matrícula**
   - [monografia](http://repositorio.ufba.br/ri/handle/ri/22939), [código-fonte da monografia](https://www.overleaf.com/read/srfvzchthhst), [slides](http://slides.com/gabrielerbetta/meuhorario-2), [software](https://github.com/gabrielerbetta/meuhorario2)
