@@ -3,10 +3,13 @@ layout: page
 title: Ensino
 ---
 
-## Disciplinas de graduação e pós-graduação
+## Disciplinas a partir de 2015
 
-Disciplinas da UFBA, a não ser onde especificado diferentemente.
+Ver [página de aulas](/aulas).
 
+## Disciplinas anteriores a 2015
+
+<!-- 
 - 2017.1
   - [MATA37: Introdução à Lógica de Programação](mata37)
   - [MATA56: Paradigmas de Linguagens de Programação](mata56)
@@ -27,6 +30,11 @@ Disciplinas da UFBA, a não ser onde especificado diferentemente.
   - [MATA37: Introdução à Lógica de Programação](http://www.novomoodle.ufba.br/course/view.php?id=870)
   - [MATA40: Estruturas de Dados e Algoritmos]
   - [MAT220: Empreendedores em Informática](http://www.novomoodle.ufba.br/course/view.php?id=869) (duas turmas)
+ -->
+
+
+Disciplinas anteriores a 2015 (da UFBA, a não ser onde especificado diferentemente):
+
 - 2013.1
   - MATA62: Engenharia de Software I (estágio docência; prof. Christina von Flach)
   - (pós) [Desenvolvimento de Jogos](https://sites.google.com/site/jogosruy/) (Faculdade Ruy Barbosa)
