@@ -10,6 +10,14 @@ title: "Publications"
 - [ResearchGate](https://www.researchgate.net/profile/Rodrigo_Souza3)
 - [dblp](http://dblp.uni-trier.de/pers/hd/s/Souza:Rodrigo_R=_G=)
 
+## 2018-2020
+
+* SOUZA, Antônio Lucas; SOUZA, Rodrigo. **Dominoops: Um Jogo de Cartas para Ensino-Aprendizagem de Conceitos de Programação Orientada a Objetos**. In: Workshop G2 - SBGames - Simpósio Brasileiro de Jogos para Computador e Entretenimento Digital, 2020.
+* RIVAS, Enrique; SOUZA, Rodrigo. **Improving pathfinding cohesion in RTS games**. In: Workshop G2 - SBGames - Simpósio Brasileiro de Jogos para Computador e Entretenimento Digital, 2020.
+* PONTES, Pedro; SOUZA, Rodrigo. **Geoblocks: geração de mundos virtuais baseados em blocos a partir de informações geográficas**. In: SBGames - Simpósio Brasileiro de Jogos para Computador e Entretenimento Digital (Art & Design Track), 2019.
+* ASSUNÇÃO, Ederson; SOUZA, Rodrigo. **Incidence of code smells in the application of design patterns: a method-level analysis**. In: Proceedings of the XIII Brazilian Symposium on Software Components, Architectures, and Reuse. 2019. p. 73-82.
+* MOTTA, Tiago; SOUZA, Rodrigo; SANT'ANNA, Claudio. **Characterizing architectural information in commit messages: an exploratory study**. In: Proceedings of the XXXII Brazilian Symposium on Software Engineering. 2018. p. 12-21.
+
 ## 2017
 
 * SOUZA, R. ; SILVA, B. **Sentiment Analysis of Travis CI Builds**. In: 14th International Conference on Mining Software Repositories, 2017. ([paper]({{site.baseurl}}/files/msr2017-rodrigo.pdf), [slides](https://speakerdeck.com/rodrigorgs/sentiment-analysis-of-travis-ci-builds), [video](https://youtu.be/Wl5-IurNsjg))
@@ -26,7 +34,7 @@ title: "Publications"
 ## 2009–2014
 
 * SOUZA, R. ; CHAVEZ, C. ; BITTENCOURT, R. A. **Do Rapid Releases Affect Bug Reopening? A Case Study of Firefox**. In: SBES: Simpósio Brasileiro de Engenharia de Software, 2014, Maceió. ([paper](files/souza2014.pdf), [slides](https://speakerdeck.com/rodrigorgs/do-rapid-releases-affect-bug-reopening-a-case-study-of-firefox))
-* SOUZA, R. ; **Bug Reopening: Impact of  Process and Design Variables**. In: ICSE 2017 PhD and Young Researchers Warm Up Symposium, Maceió. ([poster](files/icse-warmup-poster.pdf))
+* SOUZA, R. ; **Bug Reopening: Impact of Process and Design Variables**. In: ICSE 2017 PhD and Young Researchers Warm Up Symposium, Maceió. ([poster](files/icse-warmup-poster.pdf))
 * SOUZA, R. ; CHAVEZ, C. ; BITTENCOURT, R. A. **Patterns for Cleaning Up Bug Data**. In: DAPSE: Workshop on Data Analysis Patterns in Software Engineering, 2013, San Francisco. Proceedings of the First Workshop on Data Analysis Patterns in Software Engineering, 2013. ([paper](https://github.com/rodrigorgs/dapse13-bugpatterns/blob/master/preprint/icsews13dapse-id2-p-16145-preprint.pdf?raw=true), [slides](http://www.slideshare.net/xrodrigorgs/patterns-for-cleaning-up-bug-data), [video](http://youtu.be/biwtV-OsOJM))
 * SOUZA, Rodrigo ; CHAVEZ, Christina ; BITTENCOURT, R. A. **Patterns for Extracting High Level Information from Bug Reports**. In: DAPSE: Workshop on Data Analysis Patterns in Software Engineering, 2013, San Francisco. Proceedings of the First Workshop on Data Analysis Patterns in Software Engineering, 2013. ([paper](https://github.com/rodrigorgs/dapse13-analysis/blob/master/preprint/icsews13dapse-id11-p-16145-preprint.pdf?raw=true), [slides](http://www.slideshare.net/xrodrigorgs/dapse-11souza), [video](http://youtu.be/tDqVUd9dW4o))
 * NASCIMENTO, D. M., COX, K., ALMEIDA, T., SAMPAIO, W., BITTENCOURT, R. A., SOUZA, Rodrigo, CHAVEZ, Christina. **Using Open Source Projects in Software Engineering Education: A Systematic Mapping Study**. In: Frontiers in Education Conference (FIE), 2013, Oklahoma City.
