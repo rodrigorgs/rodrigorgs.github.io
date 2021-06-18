@@ -19,6 +19,14 @@ Quer fazer um projeto final de graduação ou dissertação de mestrado comigo? 
 
 **Graduação** (entre parênteses, semestre de conclusão)
 
+- (2021.1) Enrique Wicks Rivas
+  - **Map markers as a solution to cohesion in multi-agent pathfinders of Real-Time Strategy games**
+- (2021.1) Ayrton Silas Silva Guimarães
+  - **UniHands: Um Aplicativo para Consultar Informações Acadêmicas**
+  - [software (app)](https://bitbucket.org/ayrtonsilas/siac-ufba-app/src/master/), [software (api)](https://bitbucket.org/ayrtonsilas/siac-ufba-api/src/master/)
+- (2021.1) Ícaro Erasmo Souza Barreiro
+  - **Guide Automator Video JS: Uma proposta de geração automática de documentação com imagens e vídeo em ambientes com integração contínua**
+  - [monografia](files/orientacao/tcc-icaro-erasmo.pdf), [software](https://github.com/icaroerasmo/guide-automator-puppeteer)
 - (2020) Wiliam Gomes Conceição
   - **Threelab - uma ferramenta de ensino e correção de atividades de programação**
   - [monografia](files/orientacao/tcc-wiliam-gomes-conceicao.pdf), [código-fonte da monografia](files/orientacao/tcc-wiliam-gomes-conceicao-src.zip), [slides](tcc/../files/orientacao/tcc-wiliam-gomes-conceicao-slides.pdf), [software](https://github.com/rodrigorgs/aulas)
