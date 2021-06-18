@@ -7,9 +7,9 @@
 
 # Site settings
 title: Rodrigo Rocha
-email: rodrigo@dcc.ufba.br
+email: rodrigorgs@ufba.br
 description: > # this means to ignore newlines until "baseurl:"
-  Professor do Departamento de Ciência da Computação (DCC)
+  Professor do Instituto de Computação (IC)
   da Universidade Federal da Bahia (UFBA) desde 2015.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
