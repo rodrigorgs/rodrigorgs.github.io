@@ -14,6 +14,8 @@ Quer fazer um projeto final de graduação ou dissertação de mestrado comigo? 
 
 **Mestrado** (entre parênteses, semestre de conclusão)
 
+- (2021.2) Ederson dos Santos Assunção
+  - **Investigando a incidência de code smells em métodos de padrões de projeto**
 - (2018.2) Daniel Luis Moreira Timponi
   - **Caracterização do desenvolvimento de bibliotecas de jogos multiplataforma**
 
