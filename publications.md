@@ -10,8 +10,9 @@ title: "Publications"
 - [ResearchGate](https://www.researchgate.net/profile/Rodrigo_Souza3)
 - [dblp](http://dblp.uni-trier.de/pers/hd/s/Souza:Rodrigo_R=_G=)
 
-## 2018-2020
+## 2018-2021
 
+* RIVAS, Enrique; SOUZA, Rodrigo. **Map Marker: a Multi-Agent Pathfinder for Cohesive Groups in Real-Time Strategy Games**. In: SBGames - Simpósio Brasileiro de Jogos para Computador e Entretenimento Digital - Computing Track, 2021.
 * SOUZA, Antônio Lucas; SOUZA, Rodrigo. **Dominoops: Um Jogo de Cartas para Ensino-Aprendizagem de Conceitos de Programação Orientada a Objetos**. In: Workshop G2 - SBGames - Simpósio Brasileiro de Jogos para Computador e Entretenimento Digital, 2020.
 * RIVAS, Enrique; SOUZA, Rodrigo. **Improving pathfinding cohesion in RTS games**. In: Workshop G2 - SBGames - Simpósio Brasileiro de Jogos para Computador e Entretenimento Digital, 2020.
 * PONTES, Pedro; SOUZA, Rodrigo. **Geoblocks: geração de mundos virtuais baseados em blocos a partir de informações geográficas**. In: SBGames - Simpósio Brasileiro de Jogos para Computador e Entretenimento Digital (Art & Design Track), 2019.
