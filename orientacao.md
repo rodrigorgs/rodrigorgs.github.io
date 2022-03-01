@@ -39,10 +39,10 @@ Quer fazer um projeto final de graduação ou dissertação de mestrado comigo? 
   - **GuideAutomator Video: Gerador de Vídeo Tutoriais para Aplicações Web**
 - (2019.2) Pedro Augusto Vitor de Santana
   - **Um encurtador de URLs para a Universidade Federal da Bahia**
-  - [site](http://a.ufba.br/)
+  - [site](http://a.ufba.br/), [monografia](files/orientacao/tcc-pedro-augusto.pdf)
 - (2019.2) Rafael Dourado Silvestre de Oliveira
   - **Depósito de Monografias: Uma Interface Web Para Submissão de TCCs**
-  - [site](http://deposito-monografia.herokuapp.com/)
+  - [monografia](files/orientacao/tcc-rafael-dourado.pdf), [site](http://deposito-monografia.herokuapp.com/), [software](https://github.com/rafaeldourado50/deposito-monografia)
 - (2019.2) Ygor Mutti Miranda Monteiro do Carmo
   - **Diffless: uma ferramenta de diff léxico multilinguagem**
   - [monografia](files/orientacao/tcc-ygor-mutti.pdf), [software](https://github.com/ygormutti/diffless)
