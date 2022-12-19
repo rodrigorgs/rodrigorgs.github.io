@@ -1,3 +1,3 @@
-- **Local**: Sala 260 do Instituto de Matemática da UFBA
+- **Local**: Sala 212 do PAF II, Campus de Ondina da UFBA
 - **E-mail**: rodrigorgs@ufba.br
-- Quer conversar? Marque um horário em <https://rodrigorgs.youcanbook.me/>
+<!-- Quer conversar? Marque um horário em <https://rodrigorgs.youcanbook.me/> -->
