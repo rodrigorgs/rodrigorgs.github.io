@@ -21,6 +21,15 @@ Quer fazer um projeto final de graduação ou dissertação de mestrado comigo? 
 
 **Graduação** (entre parênteses, semestre de conclusão)
 
+- (2022.2) Thiago de Oliveira Santos
+  - **Análise de sentimento de diferentes comunidades e tribos de desenvolvimento de software**
+  - [monografia](files/orientacao/tcc-thiago-de-oliveira.pdf)
+- (2022.2) Danilo Brito Oliveira
+  - **Dangerous Chicken: um Jogo para Ensinar a Tabuada para Crianças e Adolescentes**
+- (2022.2) Adam Lamoglia Rammensee
+  - **Architecture for Casual Games in Unity: An Event Management System Project**
+- (2022.1) Mayara de Jesus Silva
+  - **Sensibilidade do SikuliX frente a mudanças de cores na interface do sistema**
 - (2021.1) Enrique Wicks Rivas
   - **Map markers as a solution to cohesion in multi-agent pathfinders of Real-Time Strategy games**
 - (2021.1) Ayrton Silas Silva Guimarães
